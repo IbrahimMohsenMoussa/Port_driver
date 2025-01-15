@@ -1,7 +1,7 @@
 ******************************************************************************
                   TI ARM Linker PC v20.2.7                     
 ******************************************************************************
->> Linked Tue Jan  7 08:27:42 2025
+>> Linked Thu Jan 16 01:10:41 2025
 
 OUTPUT FILE NAME:   <Empty_tivaProject.out>
 ENTRY POINT SYMBOL: "_c_int00_noinit_noargs"  address: 0000026d
@@ -39,7 +39,7 @@ section   page    origin      length       input sections
                   00000298    0000000c     tm4c123gh6pm_startup_ccs.obj (.text)
                   000002a4    00000004     rtsv7M4_T_le_v4SPD16_eabi.lib : pre_init.c.obj (.text:_system_pre_init)
                   000002a8    00000004                                   : exit.c.obj (.text:abort:abort)
-                  000002ac    00000002     main.obj (.text)
+                  000002ac    00000002     UnitTest.obj (.text)
 
 .cinit     0    00000000    00000000     UNINITIALIZED
 
@@ -59,7 +59,7 @@ MODULE SUMMARY
        ------                         ----   -------   -------
     .\
        tm4c123gh6pm_startup_ccs.obj   12     620       0      
-       main.obj                       2      0         0      
+       UnitTest.obj                   2      0         0      
     +--+------------------------------+------+---------+---------+
        Total:                         14     620       0      
                                                               
