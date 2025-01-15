@@ -1,0 +1,12 @@
+[
+   {
+      "directory" : "B:/Embeded systems ENG Tarek 2024/Advanced Diploma/PortDriver_ws/Empty_tivaProject/Debug",
+      "command"   : "clang++ -I\"B:/Embeded systems ENG Tarek 2024/Advanced Diploma/PortDriver_ws/Empty_tivaProject\" -I\"C:/ti/ccs2001/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include\" -Dccs=\"ccs\" -DPART_TM4C123GH6PM",
+      "file"      : "B:/Embeded systems ENG Tarek 2024/Advanced Diploma/PortDriver_ws/Empty_tivaProject/main.c"
+   },
+   {
+      "directory" : "B:/Embeded systems ENG Tarek 2024/Advanced Diploma/PortDriver_ws/Empty_tivaProject/Debug",
+      "command"   : "clang++ -I\"B:/Embeded systems ENG Tarek 2024/Advanced Diploma/PortDriver_ws/Empty_tivaProject\" -I\"C:/ti/ccs2001/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include\" -Dccs=\"ccs\" -DPART_TM4C123GH6PM",
+      "file"      : "B:/Embeded systems ENG Tarek 2024/Advanced Diploma/PortDriver_ws/Empty_tivaProject/tm4c123gh6pm_startup_ccs.c"
+   }
+]
