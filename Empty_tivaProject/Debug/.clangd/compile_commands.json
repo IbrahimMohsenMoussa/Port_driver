@@ -8,5 +8,30 @@
       "directory" : "B:/Embeded systems ENG Tarek 2024/Advanced Diploma/PortDriver_ws/Empty_tivaProject/Debug",
       "command"   : "clang++ -I\"B:/Embeded systems ENG Tarek 2024/Advanced Diploma/PortDriver_ws/Empty_tivaProject\" -I\"C:/ti/ccs2001/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include\" -Dccs=\"ccs\" -DPART_TM4C123GH6PM",
       "file"      : "B:/Embeded systems ENG Tarek 2024/Advanced Diploma/PortDriver_ws/Empty_tivaProject/UnitTest.c"
+   },
+   {
+      "directory" : "B:/Embeded systems ENG Tarek 2024/Advanced Diploma/PortDriver_ws/Empty_tivaProject/Debug",
+      "command"   : "clang++ -I\"B:/Embeded systems ENG Tarek 2024/Advanced Diploma/PortDriver_ws/Empty_tivaProject\" -I\"C:/ti/ccs2001/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include\" -Dccs=\"ccs\" -DPART_TM4C123GH6PM",
+      "file"      : "B:/Embeded systems ENG Tarek 2024/Advanced Diploma/PortDriver_ws/Empty_tivaProject/MCAL/Port_Init.c"
+   },
+   {
+      "directory" : "B:/Embeded systems ENG Tarek 2024/Advanced Diploma/PortDriver_ws/Empty_tivaProject/Debug",
+      "command"   : "clang++ -I\"B:/Embeded systems ENG Tarek 2024/Advanced Diploma/PortDriver_ws/Empty_tivaProject\" -I\"C:/ti/ccs2001/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include\" -Dccs=\"ccs\" -DPART_TM4C123GH6PM",
+      "file"      : "B:/Embeded systems ENG Tarek 2024/Advanced Diploma/PortDriver_ws/Empty_tivaProject/MCAL/Port_SetPinDirection.c"
+   },
+   {
+      "directory" : "B:/Embeded systems ENG Tarek 2024/Advanced Diploma/PortDriver_ws/Empty_tivaProject/Debug",
+      "command"   : "clang++ -I\"B:/Embeded systems ENG Tarek 2024/Advanced Diploma/PortDriver_ws/Empty_tivaProject\" -I\"C:/ti/ccs2001/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include\" -Dccs=\"ccs\" -DPART_TM4C123GH6PM",
+      "file"      : "B:/Embeded systems ENG Tarek 2024/Advanced Diploma/PortDriver_ws/Empty_tivaProject/MCAL/Port_RefreshPortDirection.c"
+   },
+   {
+      "directory" : "B:/Embeded systems ENG Tarek 2024/Advanced Diploma/PortDriver_ws/Empty_tivaProject/Debug",
+      "command"   : "clang++ -I\"B:/Embeded systems ENG Tarek 2024/Advanced Diploma/PortDriver_ws/Empty_tivaProject\" -I\"C:/ti/ccs2001/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include\" -Dccs=\"ccs\" -DPART_TM4C123GH6PM",
+      "file"      : "B:/Embeded systems ENG Tarek 2024/Advanced Diploma/PortDriver_ws/Empty_tivaProject/MCAL/Port_GetVersionInfo.c"
+   },
+   {
+      "directory" : "B:/Embeded systems ENG Tarek 2024/Advanced Diploma/PortDriver_ws/Empty_tivaProject/Debug",
+      "command"   : "clang++ -I\"B:/Embeded systems ENG Tarek 2024/Advanced Diploma/PortDriver_ws/Empty_tivaProject\" -I\"C:/ti/ccs2001/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include\" -Dccs=\"ccs\" -DPART_TM4C123GH6PM",
+      "file"      : "B:/Embeded systems ENG Tarek 2024/Advanced Diploma/PortDriver_ws/Empty_tivaProject/MCAL/Port_SetPinMode.c"
    }
 ]
